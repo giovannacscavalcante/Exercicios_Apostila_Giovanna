@@ -1,16 +1,16 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "OlÃ¡ mundo"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Hiram Amaral 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Escreve e lÃª algo
 // Autor(a)    : Giovanna Cavalcante
 // Data atual  : 29/03/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
-Escreval ("Olá, mundo. Este é o curso de Inteligência Artificial!")
+Escreval ("OlÃ¡, mundo. Este Ã© o curso de InteligÃªncia Artificial!")
 Fimalgoritmo
